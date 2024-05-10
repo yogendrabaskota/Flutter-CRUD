@@ -10,7 +10,7 @@ class Home extends StatefulWidget {
 class _HomeState extends State<Home> {
   String name = '';
   String address = '';
-  int age = 0;
+  int age = 0; 
 
   void updateFormData(String newName, String newAddress, int newAge) {
     setState(() {
