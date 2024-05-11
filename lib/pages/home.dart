@@ -15,8 +15,8 @@ class _HomeState extends State<Home> {
   void updateFormData(String newName, String newAddress, int newAge) {
     setState(() {
       name = newName;
-      address = newAddress;
-      age = newAge;
+      address = newAddress; 
+      age = newAge; 
     });
   }
 
