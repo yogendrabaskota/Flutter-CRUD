@@ -13,7 +13,7 @@ class FormScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Enter Details'),
+        title: Text('Enter Details'), 
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
