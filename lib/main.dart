@@ -6,6 +6,7 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false, 
       home: Home(), // Use the Home widget as the home screen
+      
     ),
   );
 } 
