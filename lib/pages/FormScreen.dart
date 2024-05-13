@@ -11,7 +11,7 @@ class FormScreen extends StatelessWidget {
     String address = '';
     int age = 0;
 
-    return Scaffold(
+    return Scaffold( 
       appBar: AppBar(
         title: Text('Enter Details'), 
       ),
