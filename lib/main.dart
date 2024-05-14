@@ -3,7 +3,7 @@ import 'package:crud/pages/home.dart'; // Replace 'your_project_name' with your 
 
 void main() {
   runApp(
-    MaterialApp(
+    MaterialApp( 
       debugShowCheckedModeBanner: false, 
       home: Home(), // Use the Home widget as the home screen
       
